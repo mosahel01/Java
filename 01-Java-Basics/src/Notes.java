@@ -1,9 +1,9 @@
 public class Notes {
     public static void JavaNotes(String[] args) {
-        System.out.print("Notes of what i learn in Java ");
+        System.out.print("Some Important Notes");
 
 
-//    here we write our notes
+//        here we write our notes
 //        1. class name at line 1 should match file name
 //        2. myClass & MyClass are different || Java is case-sensitive
 //        3. Println vs Print => Print does not insert a new line at the end of the output

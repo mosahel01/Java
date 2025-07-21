@@ -10,6 +10,5 @@ public class Notes {
 //        4. type valueName = value;  || that's how you declare variables in Java
 
 
-
     }
 }

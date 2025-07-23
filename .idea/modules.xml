@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/05Iterators/05Iterators.iml" filepath="$PROJECT_DIR$/05Iterators/05Iterators.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Documents.iml" filepath="$PROJECT_DIR$/Documents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>
 </project>

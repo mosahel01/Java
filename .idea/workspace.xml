@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound Interest Calculator">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09InterestCalculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/09InterestCalculator/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,10 +52,10 @@
     "Application.Main.executor": "Run",
     "Application.PrintF.executor": "Run",
     "Application.Triangle.executor": "Run",
+    "Application.nested_if_else.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -70,6 +67,13 @@
     "onboarding.tips.debug.path": "/home/mos/Documents/Java/09InterestCalculator/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -88,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753260035820</updated>
       <workItem from="1753260038260" duration="2835000" />
-      <workItem from="1753281688375" duration="13956000" />
+      <workItem from="1753281688375" duration="16193000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -154,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753328311658</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Compound interest calculator in java">
+      <option name="closed" value="true" />
+      <created>1753330585745</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753330585745</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Compound interest">
+      <option name="closed" value="true" />
+      <created>1753330600784</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753330600784</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +198,9 @@
     <MESSAGE value="Mathematical Operators in Java" />
     <MESSAGE value="Area calculator + PrintF" />
     <MESSAGE value="Compound Interest Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compound Interest Calculator" />
+    <MESSAGE value="Compound interest calculator in java" />
+    <MESSAGE value="Compound interest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compound interest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

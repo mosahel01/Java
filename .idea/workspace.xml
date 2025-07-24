@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Iterators">
-      <change afterPath="$PROJECT_DIR$/06RandomNumbers/06RandomNumbers.iml" afterDir="false" />
+    <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Random Numbers">
+      <change afterPath="$PROJECT_DIR$/07MathematicalJava/07MathematicalJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07MathematicalJava/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08Area/08Area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08Area/src/PrintF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09InterestCalculator/09InterestCalculator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -13,6 +17,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,6 +58,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.PrintF.executor": "Run",
+    "Application.Triangle.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -59,7 +72,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Documents/Java/06RandomNumbers/src/Main.java",
+    "onboarding.tips.debug.path": "/home/mos/Documents/Java/09InterestCalculator/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -80,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753260035820</updated>
       <workItem from="1753260038260" duration="2835000" />
-      <workItem from="1753281688375" duration="6073000" />
+      <workItem from="1753281688375" duration="11569000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -106,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753291424901</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Random Numbers">
+      <option name="closed" value="true" />
+      <created>1753292007941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753292007941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +147,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iterators in Java" />
     <MESSAGE value="Iterators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators" />
+    <MESSAGE value="Random Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Random Numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

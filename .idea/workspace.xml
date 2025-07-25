@@ -53,6 +53,7 @@
     "Application.PrintF.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.nested_if_else.executor": "Run",
+    "Application.stringMethods.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -93,6 +94,7 @@
       <updated>1753260035820</updated>
       <workItem from="1753260038260" duration="2835000" />
       <workItem from="1753281688375" duration="16193000" />
+      <workItem from="1753334626200" duration="3093000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

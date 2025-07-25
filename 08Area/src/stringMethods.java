@@ -6,6 +6,8 @@ public class stringMethods {
 
 
         String name = "Bro Code";
+        String password = "BroCode";
+        String empty = "";
         int length = name.length();
         char charOF = name.charAt(0);
         int indexOF = name.indexOf("o");
@@ -18,6 +20,20 @@ public class stringMethods {
         System.out.println(charOF);
         System.out.println(indexOF);
         System.out.println(LastIndexOF);
+
+        System.out.println(empty.isEmpty()); // true on "" , false on " "
+
+        if (name.contains(" ")) {
+            System.out.println("Your name contains spaces");
+        } else {
+            System.out.println("Your name does not contain spaces");
+        }
+
+        if (password.equals(name)) {
+            System.out.println("You name is a password");
+        } else {
+            System.out.println("Your name is not a password");
+        }
 
 
     }

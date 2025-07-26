@@ -20,17 +20,15 @@ public class Main {
             System.out.print("Enter weight in lbs: ");
             weight = scanner.nextDouble();
             weight *= 0.453592;
-            System.out.println("Your new weight in kgs : " + weight);
+            System.out.printf("Your new weight in kgs : %.2f", weight);
         } else if (choice == 2) {
             System.out.print("Enter weight in kgs: ");
             weight = scanner.nextDouble();
             weight *= 2.20462;
-            System.out.println("Your new weight in lbs : " + weight);
+            System.out.printf("Your new weight in lbs : %.2f", weight);
         } else {
-            System.out.println("Enter a Valid Value");
+            System.out.println("Invalid Input, Retry");
         }
-
-
-        System.out.println("Finished");
+        scanner.close();
     }
 }

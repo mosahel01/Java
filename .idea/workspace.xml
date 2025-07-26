@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
+      <change afterPath="$PROJECT_DIR$/05Iterators/src/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11TemperatureConverter/src/Tako.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10WeightConverter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/10WeightConverter/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -55,9 +57,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EnhancedSwitch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PrintF.executor": "Run",
     "Application.SubString.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.SwitchStatement.executor": "Run",
+    "Application.Tako.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.nested_if_else.executor": "Run",
     "Application.stringMethods.executor": "Run",
@@ -75,8 +82,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Programming/Java/10WeightConverter/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "onboarding.tips.debug.path": "/home/mos/Programming/Java/11TemperatureConverter/src/Main.java",
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -90,13 +97,21 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="10WeightConverter" />
+      <module name="11TemperatureConverter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStatement" />
+      <module name="05Iterators" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -120,7 +135,7 @@
       <workItem from="1753281688375" duration="16193000" />
       <workItem from="1753334626200" duration="4004000" />
       <workItem from="1753465180415" duration="178000" />
-      <workItem from="1753465369630" duration="6658000" />
+      <workItem from="1753465369630" duration="20066000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -238,11 +253,19 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Basics/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$SwitchStatement.ic" NAME="SwitchStatement Coverage Results" MODIFIED="1753512621391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>

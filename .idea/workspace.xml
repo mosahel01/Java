@@ -76,7 +76,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/mos/Programming/Java/10WeightConverter/src/Main.java",
-    "settings.editor.selected.configurable": "copyright.filetypes.JAVA",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -88,16 +88,16 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="PrintF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintF" />
-      <module name="08Area" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="10WeightConverter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintF" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +120,7 @@
       <workItem from="1753281688375" duration="16193000" />
       <workItem from="1753334626200" duration="4004000" />
       <workItem from="1753465180415" duration="178000" />
-      <workItem from="1753465369630" duration="5862000" />
+      <workItem from="1753465369630" duration="6658000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

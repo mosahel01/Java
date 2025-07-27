@@ -21,8 +21,6 @@ public class Main {
         // System.out.printf("newTemp + "°" + scale");
         System.out.printf("%.2f°%s", newTemp, scale);
 
-        System.out.println("Kanan => Armenian Military ");
-
         input.close();
     }
 }

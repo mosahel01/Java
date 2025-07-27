@@ -37,6 +37,9 @@
     &quot;accountId&quot;: &quot;35ba3baf-c964-47e8-9ad7-2af8343e25aa&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/12JavaCalculatorr/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -52,46 +55,46 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EnhancedSwitch.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PrintF.executor": "Run",
-    "Application.SubString.executor": "Run",
-    "Application.Switch.executor": "Run",
-    "Application.SwitchStatement.executor": "Run",
-    "Application.Tako.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.nested_if_else.executor": "Run",
-    "Application.stringMethods.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/mos/Programming/Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Programming/Java/12JavaCalculatorr/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EnhancedSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tako.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nested_if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mos/Programming/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/mos/Programming/Java/12JavaCalculatorr/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.SwitchStatement">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="11TemperatureConverter" />
@@ -133,7 +136,9 @@
       <workItem from="1753334626200" duration="4004000" />
       <workItem from="1753465180415" duration="178000" />
       <workItem from="1753465369630" duration="20688000" />
-      <workItem from="1753561988824" duration="11636000" />
+      <workItem from="1753561988824" duration="14666000" />
+      <workItem from="1753642537466" duration="1009000" />
+      <workItem from="1753647946543" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

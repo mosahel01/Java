@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12JavaCalculatorr/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/12JavaCalculatorr/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,7 @@
       <workItem from="1753642537466" duration="1009000" />
       <workItem from="1753647946543" duration="146000" />
       <workItem from="1753649595796" duration="83000" />
-      <workItem from="1753649688735" duration="1994000" />
+      <workItem from="1753649688735" duration="5759000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

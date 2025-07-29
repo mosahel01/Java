@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/14LOOPS/14LOOPS.iml" filepath="$PROJECT_DIR$/14LOOPS/14LOOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/15Methods/15Methods.iml" filepath="$PROJECT_DIR$/15Methods/15Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/16OverLoadedMethods/16OverLoadedMethods.iml" filepath="$PROJECT_DIR$/16OverLoadedMethods/16OverLoadedMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17BankingGame/17BankingGame.iml" filepath="$PROJECT_DIR$/17BankingGame/17BankingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

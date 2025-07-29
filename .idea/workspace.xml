@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17BankingGame/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/17BankingGame/src/Main.java" afterDir="false" />
     </list>
@@ -84,7 +83,7 @@
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/mos/Programming/Java",
+    "last_opened_file_path": "/home/mos/Programming/Java/17BankingGame/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -159,7 +158,7 @@
       <workItem from="1753642537466" duration="1009000" />
       <workItem from="1753647946543" duration="146000" />
       <workItem from="1753649595796" duration="83000" />
-      <workItem from="1753649688735" duration="29667000" />
+      <workItem from="1753649688735" duration="33080000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

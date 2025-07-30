@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/20VarArgs/20VarArgs.iml" filepath="$PROJECT_DIR$/20VarArgs/20VarArgs.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-2DArrays/21-2DArrays.iml" filepath="$PROJECT_DIR$/21-2DArrays/21-2DArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/22QuizGame/22QuizGame.iml" filepath="$PROJECT_DIR$/22QuizGame/22QuizGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23RockPaperScissor/23RockPaperScissor.iml" filepath="$PROJECT_DIR$/23RockPaperScissor/23RockPaperScissor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" filepath="$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

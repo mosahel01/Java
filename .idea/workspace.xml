@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/20VarArgs/20VarArgs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-2DArrays/21-2DArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-2DArrays/src/TelephonePad2Darrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22QuizGame/22QuizGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08Area/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/08Area/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15Methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/15Methods/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22QuizGame/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22QuizGame/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23RockPaperScissor/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/23RockPaperScissor/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +97,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Programming/Java/21QuizGame/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+    "onboarding.tips.debug.path": "/home/mos/Programming/Java/24SlotMachine/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -165,7 +166,7 @@
       <workItem from="1753642537466" duration="1009000" />
       <workItem from="1753647946543" duration="146000" />
       <workItem from="1753649595796" duration="83000" />
-      <workItem from="1753649688735" duration="53025000" />
+      <workItem from="1753649688735" duration="66609000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

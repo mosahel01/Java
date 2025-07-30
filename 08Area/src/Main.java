@@ -24,6 +24,9 @@ public class Main {
         System.out.println("area = " + area + "cm²");
         System.out.println("volume = " + volume + "cm³");
 
+        System.out.println("Hello it works");
+        System.out.println("KHello my friend");
+
         // %.1 => will keep 1 value after decimal
         System.out.printf("------------------------");
         System.out.printf("circumference = %.1fcm\n", circumference);

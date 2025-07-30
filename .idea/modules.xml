@@ -18,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/17BankingGame/17BankingGame.iml" filepath="$PROJECT_DIR$/17BankingGame/17BankingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/18DiceRollerGame/18DiceRollerGame.iml" filepath="$PROJECT_DIR$/18DiceRollerGame/18DiceRollerGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/19Arrays/19Arrays.iml" filepath="$PROJECT_DIR$/19Arrays/19Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20VarArgs/20VarArgs.iml" filepath="$PROJECT_DIR$/20VarArgs/20VarArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-2DArrays/21-2DArrays.iml" filepath="$PROJECT_DIR$/21-2DArrays/21-2DArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22QuizGame/22QuizGame.iml" filepath="$PROJECT_DIR$/22QuizGame/22QuizGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/19Arrays/19Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19Arrays/src/UserInputArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20VarArgs/20VarArgs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-2DArrays/21-2DArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-2DArrays/src/TelephonePad2Darrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22QuizGame/22QuizGame.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,12 +73,14 @@
     "Application.Switch.executor": "Run",
     "Application.SwitchStatement.executor": "Run",
     "Application.Tako.executor": "Run",
+    "Application.TelephonePad2Darrays.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.UserInputArrays.executor": "Run",
     "Application.WhileLoop.executor": "Run",
     "Application.infiniteLoop.executor": "Run",
     "Application.nested_if_else.executor": "Run",
+    "Application.searchArrays.executor": "Run",
     "Application.stringMethods.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,8 +96,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Programming/Java/19Arrays/src/Main.java",
-    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable",
+    "onboarding.tips.debug.path": "/home/mos/Programming/Java/21QuizGame/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -161,7 +165,7 @@
       <workItem from="1753642537466" duration="1009000" />
       <workItem from="1753647946543" duration="146000" />
       <workItem from="1753649595796" duration="83000" />
-      <workItem from="1753649688735" duration="42073000" />
+      <workItem from="1753649688735" duration="53025000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -293,6 +297,11 @@
           <url>file://$PROJECT_DIR$/15Methods/src/Main.java</url>
           <line>39</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/22QuizGame/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

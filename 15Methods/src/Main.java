@@ -51,14 +51,11 @@ public class Main {
         return num * num * num;
     }
 
-
     static boolean ageCheck(int age) {
         if (age > 18) {
             return true;
         } else {
             return false;
         }
-
-
     }
 }

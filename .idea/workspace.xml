@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08Area/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/08Area/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15Methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/15Methods/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22QuizGame/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22QuizGame/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23RockPaperScissor/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/23RockPaperScissor/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24SlotMachine/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/24SlotMachine/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,54 +56,54 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BreakContinue.executor": "Run",
-    "Application.DoWhile.executor": "Run",
-    "Application.EnhancedSwitch.executor": "Run",
-    "Application.LogicalOperators.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Matrix.executor": "Run",
-    "Application.PrintF.executor": "Run",
-    "Application.SubString.executor": "Run",
-    "Application.Switch.executor": "Run",
-    "Application.SwitchStatement.executor": "Run",
-    "Application.Tako.executor": "Run",
-    "Application.TelephonePad2Darrays.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.UserInputArrays.executor": "Run",
-    "Application.WhileLoop.executor": "Run",
-    "Application.infiniteLoop.executor": "Run",
-    "Application.nested_if_else.executor": "Run",
-    "Application.searchArrays.executor": "Run",
-    "Application.stringMethods.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/mos/Programming/Java/17BankingGame/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Programming/Java/24SlotMachine/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BreakContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnhancedSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tako.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelephonePad2Darrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInputArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.infiniteLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nested_if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mos/Programming/Java/17BankingGame/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/mos/Programming/Java/24SlotMachine/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -123,17 +118,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="03Iterators" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="03Iterators" />
-      <option name="filePath" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -167,6 +151,7 @@
       <workItem from="1753647946543" duration="146000" />
       <workItem from="1753649595796" duration="83000" />
       <workItem from="1753649688735" duration="66609000" />
+      <workItem from="1753944546466" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

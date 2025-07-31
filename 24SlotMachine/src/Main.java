@@ -17,8 +17,8 @@ public class Main {
         System.out.println("**********************");
         System.out.println("Your good brother");
 
+        System.out.println("\nCurrent Balance is : $" + balance);
         while (balance > 0) {
-            System.out.println("\nCurrent Balance is : $" + balance);
             System.out.print("Place your bet : ");
             bet = scanner.nextInt();
             if (bet > balance) {
@@ -59,3 +59,4 @@ public class Main {
     }
 
 }
+

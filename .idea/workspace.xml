@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/24SlotMachine/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/24SlotMachine/src/Main.java" afterDir="false" />
     </list>
@@ -62,6 +63,7 @@
     &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
     &quot;Application.EnhancedSwitch.executor&quot;: &quot;Run&quot;,
     &quot;Application.LogicalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintF.executor&quot;: &quot;Run&quot;,
@@ -93,7 +95,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/mos/Programming/Java/24SlotMachine/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -104,7 +106,14 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="24SlotMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="11TemperatureConverter" />
@@ -121,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SwitchStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +160,16 @@
       <workItem from="1753647946543" duration="146000" />
       <workItem from="1753649595796" duration="83000" />
       <workItem from="1753649688735" duration="66609000" />
-      <workItem from="1753944546466" duration="1604000" />
+      <workItem from="1753944546466" duration="5304000" />
+      <workItem from="1753952509949" duration="69000" />
+      <workItem from="1753952592595" duration="824000" />
+      <workItem from="1753953830184" duration="92000" />
+      <workItem from="1753953939634" duration="427000" />
+      <workItem from="1753954389778" duration="107000" />
+      <workItem from="1753954507721" duration="150000" />
+      <workItem from="1753956410724" duration="344000" />
+      <workItem from="1753957163053" duration="1576000" />
+      <workItem from="1753966961447" duration="5611000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

@@ -44,6 +44,8 @@ public class Main {
         System.out.println("modified isRunning: " + gadi.isRunning);
 
         gadi.start();
+        gadi.drive();
+        gadi.brake();
         gadi.stop();
 
     }

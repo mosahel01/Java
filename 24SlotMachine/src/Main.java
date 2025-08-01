@@ -19,9 +19,11 @@ public class Main {
         System.out.println("Your good brother");
 
         System.out.println("\nCurrent Balance is : $" + balance);
+
         while (balance > 0) {
             System.out.print("\nPlace your bet : ");
             bet = scanner.nextInt();
+            scanner.nextLine();
             if (bet > balance) {
                 System.out.println("Insufficient funds");
                 continue;
@@ -44,7 +46,16 @@ public class Main {
                 System.out.println("Sorry you lost this round");
                 System.out.println();
             }
+            System.out.print("Do you want to play again ? (Y/N) : ");
+            playAgain = scanner.nextLine();
+            // scanner.nextLine();
+
+            if (!playAgain.equals("Y")) {
+                break;
+            }
         }
+
+        System.out.println("GAME OVER! your final balance is $" + balance);
 
         scanner.close();
     }

@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/24SlotMachine/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/24SlotMachine/src/Main.java" afterDir="false" />
     </list>
@@ -41,6 +40,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/12JavaCalculatorr/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/24SlotMachine/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -169,7 +169,9 @@
       <workItem from="1753954507721" duration="150000" />
       <workItem from="1753956410724" duration="344000" />
       <workItem from="1753957163053" duration="1576000" />
-      <workItem from="1753966961447" duration="5611000" />
+      <workItem from="1753966961447" duration="9826000" />
+      <workItem from="1754015605852" duration="128000" />
+      <workItem from="1754015746969" duration="4944000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

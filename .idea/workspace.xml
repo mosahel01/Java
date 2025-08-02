@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-OverloadedConstructors/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-ArrayOfObjects/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29-Static/29-Static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29-Static/src/Friend.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -117,7 +110,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Programming/Java/28-ArrayOfObjects/src/Main.java",
+    "onboarding.tips.debug.path": "/home/mos/Programming/Java/29-Static/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
@@ -187,7 +180,7 @@
       <workItem from="1753957163053" duration="1576000" />
       <workItem from="1753966961447" duration="9826000" />
       <workItem from="1754015605852" duration="128000" />
-      <workItem from="1754015746969" duration="17939000" />
+      <workItem from="1754015746969" duration="22268000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -349,6 +342,11 @@
           <url>file://$PROJECT_DIR$/28-ArrayOfObjects/src/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/29-Static/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

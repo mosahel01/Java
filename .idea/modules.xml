@@ -23,6 +23,10 @@
       <module fileurl="file://$PROJECT_DIR$/22QuizGame/22QuizGame.iml" filepath="$PROJECT_DIR$/22QuizGame/22QuizGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/23RockPaperScissor/23RockPaperScissor.iml" filepath="$PROJECT_DIR$/23RockPaperScissor/23RockPaperScissor.iml" />
       <module fileurl="file://$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" filepath="$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-OOP/25-OOP.iml" filepath="$PROJECT_DIR$/25-OOP/25-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-Constructors/26-Constructors.iml" filepath="$PROJECT_DIR$/26-Constructors/26-Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" filepath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" filepath="$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

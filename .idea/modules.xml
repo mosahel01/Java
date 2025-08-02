@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/26-Constructors/26-Constructors.iml" filepath="$PROJECT_DIR$/26-Constructors/26-Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" filepath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" filepath="$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-Static/29-Static.iml" filepath="$PROJECT_DIR$/29-Static/29-Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

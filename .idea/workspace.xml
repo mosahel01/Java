@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/29-Static/29-Static.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-Static/src/Friend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +177,7 @@
       <workItem from="1753957163053" duration="1576000" />
       <workItem from="1753966961447" duration="9826000" />
       <workItem from="1754015605852" duration="128000" />
-      <workItem from="1754015746969" duration="22268000" />
+      <workItem from="1754015746969" duration="24414000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

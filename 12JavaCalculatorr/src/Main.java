@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-
         // CALCULATOR PROGRAM
         Scanner scanner = new Scanner(System.in);
 
@@ -11,8 +10,7 @@ public class Main {
         double num2;
         char operator;
         double result = 0;
-        boolean validOperation;
-
+        boolean validOperation = false;
 
         System.out.println("Enter the first number: ");
         num1 = scanner.nextDouble();
@@ -22,7 +20,6 @@ public class Main {
 
         System.out.println("Enter the second number: ");
         num2 = scanner.nextDouble();
-
 
         switch (operator) {
             case '+' -> result = num1 + num2;
@@ -40,6 +37,7 @@ public class Main {
             default -> {
                 System.out.println("Invalid Operator");
                 validOperation = false;
+                validOperation = true;
             }
         }
 
@@ -48,7 +46,6 @@ public class Main {
         }
 
         scanner.close();
-
 
     }
 }

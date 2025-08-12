@@ -28,6 +28,10 @@
       <module fileurl="file://$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" filepath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" filepath="$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/29-Static/29-Static.iml" filepath="$PROJECT_DIR$/29-Static/29-Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-Inheritence/30-Inheritence.iml" filepath="$PROJECT_DIR$/30-Inheritence/30-Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-Super/31-Super.iml" filepath="$PROJECT_DIR$/31-Super/31-Super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-MethodOverriding/32-MethodOverriding.iml" filepath="$PROJECT_DIR$/32-MethodOverriding/32-MethodOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-toString/33-toString.iml" filepath="$PROJECT_DIR$/33-toString/33-toString.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

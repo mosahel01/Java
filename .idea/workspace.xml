@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest" />
+    <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
+      <change afterPath="$PROJECT_DIR$/32-MethodOverriding/32-MethodOverriding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-MethodOverriding/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-MethodOverriding/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-MethodOverriding/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-MethodOverriding/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33-toString/33-toString.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11TemperatureConverter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/11TemperatureConverter/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31-Super/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/31-Super/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31-Super/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/31-Super/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31-Super/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/31-Super/src/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +73,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="30GhttXsZmgVF2Yme93lQSzGpyZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -105,7 +122,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/mos/Programming/Java/29-Static/src/Main.java",
+    "onboarding.tips.debug.path": "/home/mos/Programming/Java/33-toString/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
@@ -117,28 +134,6 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="24SlotMachine" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="11TemperatureConverter" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -175,7 +170,8 @@
       <workItem from="1753957163053" duration="1576000" />
       <workItem from="1753966961447" duration="9826000" />
       <workItem from="1754015605852" duration="128000" />
-      <workItem from="1754015746969" duration="33664000" />
+      <workItem from="1754015746969" duration="39447000" />
+      <workItem from="1754715225888" duration="23307000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -342,6 +338,11 @@
           <url>file://$PROJECT_DIR$/29-Static/src/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/31-Super/src/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

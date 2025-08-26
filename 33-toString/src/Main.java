@@ -3,7 +3,7 @@ public class Main {
         // toString ->
 
         System.out.println("hello");
+        System.out.println("hello everyone");
 
     }
 }
-

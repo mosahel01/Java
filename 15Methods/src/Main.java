@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        // method = a block of reusable code that is executed when called ()
+        // method = a block of reusable code that is executed when called () {function in short}
 
         Scanner scanner = new Scanner(System.in);
         // System.out.print("Enter you name: ");

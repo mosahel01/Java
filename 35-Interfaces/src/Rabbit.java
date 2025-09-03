@@ -1,0 +1,7 @@
+
+/**
+ * Rabbit
+ */
+public class Rabbit {
+
+}

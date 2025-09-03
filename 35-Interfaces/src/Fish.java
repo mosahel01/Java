@@ -1,4 +1,13 @@
-package PACKAGE_NAME;
+public class Fish implements Prey, Predator {
 
-public class Fish {
+    @Override
+    public void flee() {
+        System.out.println("smaller fish flees bigger fish");
+    }
+
+    @Override
+    public void hunt() {
+        System.out.println("bigger fish hunts smaller  fish");
+    }
+
 }

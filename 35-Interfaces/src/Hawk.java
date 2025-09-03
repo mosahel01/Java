@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class Hawk implements Predator {
 
-public class Hawk {
+    @Override
+    public void hunt() {
+        System.out.println("*the Hawk is hunting*");
+    }
+
 }

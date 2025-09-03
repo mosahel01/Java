@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class Bear implements Prey {
 
-public class Beat {
+    @Override
+    public void flee() {
+        System.out.println("*the Bear is running away*");
+    };
+
 }

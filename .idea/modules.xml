@@ -32,6 +32,12 @@
       <module fileurl="file://$PROJECT_DIR$/31-Super/31-Super.iml" filepath="$PROJECT_DIR$/31-Super/31-Super.iml" />
       <module fileurl="file://$PROJECT_DIR$/32-MethodOverriding/32-MethodOverriding.iml" filepath="$PROJECT_DIR$/32-MethodOverriding/32-MethodOverriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/33-toString/33-toString.iml" filepath="$PROJECT_DIR$/33-toString/33-toString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34Abstraction/34Abstraction.iml" filepath="$PROJECT_DIR$/34Abstraction/34Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-Interfaces/35-Interfaces.iml" filepath="$PROJECT_DIR$/35-Interfaces/35-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36-PolyMorphism/36-PolyMorphism.iml" filepath="$PROJECT_DIR$/36-PolyMorphism/36-PolyMorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37-RuntimePolymorphism/37-RuntimePolymorphism.iml" filepath="$PROJECT_DIR$/37-RuntimePolymorphism/37-RuntimePolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38-GettersSetters/38-GettersSetters.iml" filepath="$PROJECT_DIR$/38-GettersSetters/38-GettersSetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" filepath="$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

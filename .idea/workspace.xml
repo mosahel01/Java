@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
+      <change afterPath="$PROJECT_DIR$/38-GettersSetters/38-GettersSetters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38-GettersSetters/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38-GettersSetters/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33-toString/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/33-toString/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34Abstraction/34Abstraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34Abstraction/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34Abstraction/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34Abstraction/src/Triangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,66 +82,67 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BreakContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnhancedSwitch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tako.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TelephonePad2Darrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserInputArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.infiniteLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nested_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.searchArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/hoywd/Documents/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/mos/Programming/Java/33-toString/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BreakContinue.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.EnhancedSwitch.executor": "Run",
+    "Application.LogicalOperators.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matrix.executor": "Run",
+    "Application.PrintF.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.SwitchStatement.executor": "Run",
+    "Application.Tako.executor": "Run",
+    "Application.TelephonePad2Darrays.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.UserInputArrays.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "Application.infiniteLoop.executor": "Run",
+    "Application.nested_if_else.executor": "Run",
+    "Application.searchArrays.executor": "Run",
+    "Application.stringMethods.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hoywd/Documents/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/hoywd/Documents/Java/39-Aggregation/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -169,6 +179,10 @@
       <workItem from="1756087772753" duration="68000" />
       <workItem from="1756087852070" duration="8520000" />
       <workItem from="1756136604335" duration="3485000" />
+      <workItem from="1756401108227" duration="388000" />
+      <workItem from="1756401505407" duration="17819000" />
+      <workItem from="1756694237145" duration="18487000" />
+      <workItem from="1756882631130" duration="15362000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -340,6 +354,21 @@
           <url>file://$PROJECT_DIR$/31-Super/src/Main.java</url>
           <line>17</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/34Abstraction/src/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/35-Interfaces/src/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/39-Aggregation/src/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

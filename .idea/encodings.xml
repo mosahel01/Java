@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/27-OverloadedContructors/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/27-OverloadedContructors/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/40-Composition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/40-Composition/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/69-Aggregation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/69-Aggregation/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -1,31 +1,33 @@
 public class User {
-
     String username;
     String email;
     int age;
 
-    User() {
-        this.username = "Guest";
-        this.email = "Default User";
-        this.age = 0;
+    // Constructor for username and age (email defaults)
+    User(String username, int age) {
+        this.username = username;
+        this.email = "default@example.com";
+        this.age = age;
     }
 
-    User(String username) {
+    // Constructor for username and email (age defaults to 0)
+    User(String username, String email) {
         this.username = username;
         this.email = email;
         this.age = 0;
     }
 
-    User(String username, String email) {
+    // Constructor for all three fields
+    User(String username, String email, int age) {
         this.username = username;
-        this.email = "User with Mail";
+        this.email = email;
         this.age = age;
     }
 
-    User(String username, String email, int age) {
-        this.username = username;
-        this.email = "User with Mail n Age";
-        this.age = 69;
+    // Default constructor
+    User() {
+        this.username = "Guest";
+        this.email = "default@example.com";
+        this.age = 0;
     }
-
 }

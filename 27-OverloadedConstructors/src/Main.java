@@ -5,10 +5,10 @@ public class Main {
         // Overloaded Constructors -> Allow a Class to have multiple Constructors
         // with different params list, enabling objects to initialised in various ways
 
-        User user1 = new User("Spongebob");
+        User user1 = new User("Spongebob", 23);
         User user2 = new User("Spaghetti", "Italian@Mafia.com");
         User user3 = new User("Mos", "dawood@ibrahim.com", 21);
-        User user4 = new User();
+        User user4 = new User("Spongebob", 23);
 
         System.out.print(user1.username + ", ");
         System.out.print(user1.email + ", ");

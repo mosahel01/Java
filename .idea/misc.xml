@@ -5,11 +5,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/27-OverloadedContructors/pom.xml" />
+        <option value="$PROJECT_DIR$/69-Aggregation/pom.xml" />
+        <option value="$PROJECT_DIR$/40-Composition/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/27-OverloadedContructors/pom.xml" />
+        <option value="$PROJECT_DIR$/40-Composition/pom.xml" />
+        <option value="$PROJECT_DIR$/69-Aggregation/pom.xml" />
       </set>
     </option>
   </component>

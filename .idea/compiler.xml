@@ -10,6 +10,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="27-OverloadedContructors" target="24" />
+      <module name="40-Composition" target="24" />
+      <module name="69-Aggregation" target="24" />
     </bytecodeTargetLevel>
   </component>
 </project>

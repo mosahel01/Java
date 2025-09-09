@@ -38,6 +38,8 @@
       <module fileurl="file://$PROJECT_DIR$/37-RuntimePolymorphism/37-RuntimePolymorphism.iml" filepath="$PROJECT_DIR$/37-RuntimePolymorphism/37-RuntimePolymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/38-GettersSetters/38-GettersSetters.iml" filepath="$PROJECT_DIR$/38-GettersSetters/38-GettersSetters.iml" />
       <module fileurl="file://$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" filepath="$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40-Composition/40-Composition.iml" filepath="$PROJECT_DIR$/40-Composition/40-Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" filepath="$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

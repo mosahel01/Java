@@ -40,6 +40,8 @@
       <module fileurl="file://$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" filepath="$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/40-Composition/40-Composition.iml" filepath="$PROJECT_DIR$/40-Composition/40-Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" filepath="$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42-ArrayLists/42-ArrayLists.iml" filepath="$PROJECT_DIR$/42-ArrayLists/42-ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43-ExceptionHandling/43-ExceptionHandling.iml" filepath="$PROJECT_DIR$/43-ExceptionHandling/43-ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

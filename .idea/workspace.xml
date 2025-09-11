@@ -5,149 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-BASICS/01BASICS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Variables/02Variables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Iterators/03Iterators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-ShoppingCart/04ShoppingCart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-FirstProject/03FirstProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-RandomNumbers/06RandomNumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-MathematicalJava/07MathematicalJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-Area/08Area.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-InterestCalculator/09InterestCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-WeightConverter/10WeightConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-TemperatureConverter/11TemperatureConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-JavaCalculatorr/12JavaCalculatorr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-NumberGuessingGame/13NumberGuessingGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-LOOPS/14LOOPS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-Methods/15Methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-OverLoadedMethods/16OverLoadedMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-BankingGame/17BankingGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-BankingGame/src/17BankingGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-DiceRollerGame/18DiceRollerGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-Arrays/19Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-VarArgs/20VarArgs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-QuizGame/22QuizGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-RockPaperScissor/23RockPaperScissor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-SlotMachine/24SlotMachine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40-Composition/40-Composition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40-Composition/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40-Composition/src/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42-ArrayLists/42-ArrayLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43-ExceptionHandling/43-ExceptionHandling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/10_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/11_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/12_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/13_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/1_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/2_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/3_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/4_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/5_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/6_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/7_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/8_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_Java_IMG/9_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01BASICS/01BASICS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01BASICS/src/DoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01BASICS/src/LogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01BASICS/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01BASICS/src/TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01BASICS/src/WhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01BASICS/src/infiniteLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/02Variables.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/src/Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/src/Area.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02Variables/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03Iterators/03Iterators.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03Iterators/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03Iterators/src/SubString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03Iterators/src/SwitchStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03Iterators/src/nested_if_else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/04ShoppingCart.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04ShoppingCart/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/03FirstProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05FirstProject/src/Operators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06RandomNumbers/06RandomNumbers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06RandomNumbers/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07MathematicalJava/07MathematicalJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07MathematicalJava/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07MathematicalJava/src/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08Area/08Area.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08Area/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08Area/src/PrintF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08Area/src/stringMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09InterestCalculator/09InterestCalculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09InterestCalculator/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09InterestCalculator/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09InterestCalculator/src/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10WeightConverter/10WeightConverter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10WeightConverter/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10WeightConverter/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11TemperatureConverter/11TemperatureConverter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11TemperatureConverter/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11TemperatureConverter/src/Tako.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12JavaCalculatorr/12JavaCalculatorr.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12JavaCalculatorr/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13NumberGuessingGame/13NumberGuessingGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13NumberGuessingGame/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14LOOPS/14LOOPS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14LOOPS/src/BreakContinue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14LOOPS/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14LOOPS/src/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15Methods/15Methods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15Methods/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16OverLoadedMethods/16OverLoadedMethods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16OverLoadedMethods/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17BankingGame/17BankingGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17BankingGame/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17BankingGame/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17BankingGame/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17BankingGame/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17BankingGame/src/17BankingGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17BankingGame/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18DiceRollerGame/18DiceRollerGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18DiceRollerGame/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19Arrays/19Arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19Arrays/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19Arrays/src/UserInputArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19Arrays/src/searchArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20VarArgs/20VarArgs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20VarArgs/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22QuizGame/22QuizGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22QuizGame/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/23RockPaperScissor/23RockPaperScissor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/23RockPaperScissor/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/24SlotMachine/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/27-OverloadedConstructors/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/39-Aggregation/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/39-Aggregation/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41-WrapperClasses/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/41-WrapperClasses/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,80 +78,72 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BreakContinue.executor": "Run",
-    "Application.DoWhile.executor": "Run",
-    "Application.EnhancedSwitch.executor": "Run",
-    "Application.LogicalOperators.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Matrix.executor": "Run",
-    "Application.PrintF.executor": "Run",
-    "Application.SubString.executor": "Run",
-    "Application.Switch.executor": "Run",
-    "Application.SwitchStatement.executor": "Run",
-    "Application.Tako.executor": "Run",
-    "Application.TelephonePad2Darrays.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.UserInputArrays.executor": "Run",
-    "Application.WhileLoop.executor": "Run",
-    "Application.infiniteLoop.executor": "Run",
-    "Application.nested_if_else.executor": "Run",
-    "Application.searchArrays.executor": "Run",
-    "Application.stringMethods.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/hoywd/Documents/Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/hoywd/Documents/Java/27-OverloadedConstructors/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.scopes",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BreakContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnhancedSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tako.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelephonePad2Darrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInputArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.infiniteLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nested_if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hoywd/Documents/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/hoywd/Documents/Java/43-Exceptions/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="27-OverloadedConstructors" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="40-Composition" />
+      <module name="43-ExceptionHandling" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -355,7 +210,15 @@
       <workItem from="1757430476203" duration="323000" />
       <workItem from="1757430814881" duration="384000" />
       <workItem from="1757431209611" duration="115000" />
-      <workItem from="1757431341921" duration="291000" />
+      <workItem from="1757431341921" duration="459000" />
+      <workItem from="1757431817511" duration="332000" />
+      <workItem from="1757432165706" duration="165000" />
+      <workItem from="1757432348402" duration="476000" />
+      <workItem from="1757432840078" duration="951000" />
+      <workItem from="1757474208780" duration="51000" />
+      <workItem from="1757474271503" duration="1033000" />
+      <workItem from="1757475316871" duration="20050000" />
+      <workItem from="1757573170856" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
@@ -557,6 +420,11 @@
           <url>file://$PROJECT_DIR$/3434-BS/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/42-ArrayLists/src/Main.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

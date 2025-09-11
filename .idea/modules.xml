@@ -42,6 +42,9 @@
       <module fileurl="file://$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" filepath="$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/42-ArrayLists/42-ArrayLists.iml" filepath="$PROJECT_DIR$/42-ArrayLists/42-ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/43-ExceptionHandling/43-ExceptionHandling.iml" filepath="$PROJECT_DIR$/43-ExceptionHandling/43-ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44-FileWriting/44-FileWriting.iml" filepath="$PROJECT_DIR$/44-FileWriting/44-FileWriting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45-FileReading/45-FileReading.iml" filepath="$PROJECT_DIR$/45-FileReading/45-FileReading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-AudioPlayer/46-AudioPlayer.iml" filepath="$PROJECT_DIR$/46-AudioPlayer/46-AudioPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

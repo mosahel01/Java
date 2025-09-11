@@ -7,7 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/27-OverloadedConstructors" />
-        <option name="gradleHome" value="/usr/share/java/gradle" />
+        <option name="gradleJvm" value="openjdk-24" />
       </GradleProjectSettings>
     </option>
   </component>

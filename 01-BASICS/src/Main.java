@@ -5,3 +5,7 @@ public class Main {
         // Things are in their respective Files/Class
     }
 }
+
+// void main() {
+//     IO.println("Hello world");
+// }

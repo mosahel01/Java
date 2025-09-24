@@ -1,80 +1,69 @@
 import javax.sound.sampled.*;
-import java.io.File;
-import java.io.IOException;
-import java.util.Scanner;
+import java.io.*;
+import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
 
-        // audio player using Java (.wav supported)
+    private Clip clip;
+    private Scanner scanner;
 
-        String filePath = "/home/mos/Downloads/Hass_Hass.wav";
-        File file = new File(filePath);
+    {
+        scanner = new Scanner(System.in);
+    }
 
-        try (Scanner scanner = new Scanner(System.in);
-             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);) {
-
-            String response = "";
-
-            Clip clip = AudioSystem.getClip();
-            clip.open(audioStream);
-
-            // Method-I
-
-            while (!response.equals("Q")) {
-
-                System.out.println("Q = Quit");
-                System.out.println("P = Play");
-                System.out.println("S = Stop");
-                System.out.println("R = Reset");
-
-                System.out.print("Enter your choice : ");
-                response = scanner.next().toUpperCase();
-
-                switch (response) {
-                    case "P" -> clip.start();
-                    case "Q" -> clip.close();
-                    case "R" -> clip.setMicrosecondPosition(0);
-                    case "S" -> clip.stop();
-                    default -> System.out.println("Oops, invalid choice");
-                }
-            }
-
-
-            // Method-II
-
-            // System.out.println("Shall we play music? (yes/no): ");
-            // String response = scanner.nextLine().toLowerCase();
-            //
-            // if (response.contains("yes")) {
-            //     Clip clip = AudioSystem.getClip();
-            //     clip.open(audioStream);
-            //     clip.start();
-            //     System.out.println("Let's go! Playing music...");
-            //
-            //     // Keep the program running while audio plays
-            //     System.out.println("Press Enter to stop...");
-            //     scanner.nextLine();
-            //
-            //     clip.stop();
-            //     clip.close();
-            //     audioStream.close();
-            //     System.out.println("Playback stopped");
-            //
-            // } else if (response.contains("no")) {
-            //     System.out.println("Okay, maybe next time!");
-            // } else {
-            //     System.out.println("Invalid response. Please answer 'yes' or 'no'");
-            // }
-
-        } catch (UnsupportedAudioFileException e) {
-            System.out.println("Unsupported audio file format");
-        } catch (IOException e) {
-            System.out.println("File not found or unable to read file: " + e.getMessage());
-        } catch (LineUnavailableException e) {
-            System.out.println("Audio line unavailable: " + e.getMessage());
-        } finally {
-            System.out.println("Bye!");
+    private Main(File f) {
+        try {
+            prepare(f);
+            ask("");
+        } catch (Exception _) {
         }
+    }
+
+    private void ask(String r) {
+        while (!r.equals("Q")) {
+            print("P -> Play");
+            print("S -> Stop");
+            print("R -> Reset");
+            print("Q -> Quit");
+            print("Enter your choice ");
+            r = scanner.next().toUpperCase();
+
+            switch (r) {
+                case "P" -> play();
+                case "S" -> stop();
+                case "R" -> reset(0);
+                case "Q" -> stop();
+                default -> print("could not locate file");
+            }
+        }
+    }
+
+    private void prepare(File f) {
+        try {
+            clip = AudioSystem.getClip();
+            clip.open(AudioSystem.getAudioInputStream(f));
+        } catch (Exception _) {
+        }
+    }
+
+    private void play() {
+        clip.start();
+    }
+
+    private void stop() {
+        clip.close();
+    }
+
+    private void reset(final int postion) {
+        clip.setMicrosecondPosition(postion);
+    }
+
+    private void print(final String text) {
+        System.out.println(text);
+    }
+
+    public static void main(String[] args) {
+        //	new Main(new File("Your music"));
+        new Main(new File("/home/user/Documents/Java/46-AudioPlayer/resources/GTA_San_Andreas_Theme_Song.wav"));
     }
 }

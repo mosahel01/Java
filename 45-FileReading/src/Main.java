@@ -16,6 +16,8 @@ public class Main {
 
 
         String FilePath = "/home/mos/Documents/Java/44-FileWriting/src/mos.txt";
+        
+        System.out.println("Hello world");
 
         try (BufferedReader reader = new BufferedReader(new FileReader(FilePath))) {
             String line;

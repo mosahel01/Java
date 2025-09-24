@@ -2,10 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
-
-        // Hangman Game
 
         String word = "pizza";
 
@@ -14,6 +11,7 @@ public class Main {
         int wrongGuess = 0;
 
         System.out.println(wordState);
+        System.out.println("Hello world");
 
         System.out.println("*************************");
         System.out.println("Welcome to Java Hangman!");
@@ -24,7 +22,6 @@ public class Main {
         }
 
         while (wrongGuess < 6) {
-
             System.out.print("\nWord: ");
 
             for (char c : wordState) {
@@ -41,6 +38,7 @@ public class Main {
                 for (int i = 0; i < word.length(); i++) {
                     if (word.charAt(i) == guess) {
                         wordState.set(i, guess);
+                        System.out.println("changes left " + (6 - wrongGuess));
                     }
                 }
 
@@ -52,6 +50,7 @@ public class Main {
             } else {
                 System.out.println("Wrong guess");
                 wrongGuess++;
+                System.out.println("changes left " + (6 - wrongGuess));
             }
 
             System.out.println(getHangmanArt(wrongGuess));
@@ -62,13 +61,10 @@ public class Main {
             System.out.println("The word was : " + word);
         }
 
-
         // scanner.close();
     }
 
     static String getHangmanArt(int wrongGuess) {
-
-
         return switch (wrongGuess) {
             case 0 -> """
                     
@@ -81,33 +77,31 @@ public class Main {
                     
                     """;
             case 2 -> """
-                     o
-                     |
+                    o
+                    |
                     
                     """;
             case 3 -> """
-                     o
+                    o
                     /|
                     
                     """;
             case 4 -> """
-                     o 
-                    /|\\                    
+                    o
+                    /|\\
                     
                     """;
             case 5 -> """
-                     o 
-                    /|\\                    
+                    o
+                    /|\\
                     /
                     """;
             case 6 -> """
-                     o 
-                    /|\\                    
+                    o
+                    /|\\
                     / \\
                     """;
             default -> "";
         };
-
-
     }
 }

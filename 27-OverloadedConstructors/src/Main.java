@@ -1,7 +1,5 @@
 public class Main {
-
     public static void main(String[] args) {
-
         // Overloaded Constructors -> Allow a Class to have multiple Constructors
         // with different params list, enabling objects to initialised in various ways
 
@@ -27,5 +25,4 @@ public class Main {
         System.out.println(user4.age);
 
     }
-
 }

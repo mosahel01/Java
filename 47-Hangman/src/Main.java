@@ -1,10 +1,37 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
-        String word = "pizza";
+
+        // String filePath = "Text.txt";
+        String filePath = "/home/user/Documents/Java/47-Hangman/src/Text.txt";
+        ArrayList<String> words = new ArrayList<>();
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                words.add(line.trim());
+
+            }
+
+        } catch (FileNotFoundException e) {
+            System.out.println("Could not find File");
+        } catch (IOException e) {
+            System.out.println("Something went wrong");
+        }
+
+        Random random = new Random();
+        String word = words.get(random.nextInt(words.size()));
+
+        System.out.println(word);
+
 
         Scanner scanner = new Scanner(System.in);
         ArrayList<Character> wordState = new ArrayList<>();
@@ -27,6 +54,7 @@ public class Main {
             for (char c : wordState) {
                 System.out.print(c + " ");
             }
+
             System.out.println();
 
             System.out.print("Guess a letter: ");
@@ -82,22 +110,22 @@ public class Main {
                     
                     """;
             case 3 -> """
-                    o
+                     o
                     /|
                     
                     """;
             case 4 -> """
-                    o
+                     o
                     /|\\
                     
                     """;
             case 5 -> """
-                    o
+                     o
                     /|\\
                     /
                     """;
             case 6 -> """
-                    o
+                     o
                     /|\\
                     / \\
                     """;

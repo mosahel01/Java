@@ -1,8 +1,8 @@
-Apple
-Orange
-Banana
-Coconut
-Pineapple
-Grape
-Lime
-Lemon
+apple
+orange
+banana
+coconut
+pineapple
+grape
+lime
+lemon

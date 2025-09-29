@@ -8,6 +8,12 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/27-OverloadedConstructors" />
+        <option name="gradleJvm" value="24 (3)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/27-OverloadedConstructors" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

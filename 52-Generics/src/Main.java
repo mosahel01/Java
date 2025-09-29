@@ -20,9 +20,22 @@ void main() {
     box4.setItem(200);
 
 
-    System.out.println(box1.getItem());
-    System.out.println(box2.getItem());
-    System.out.println(box3.getItem());
-    System.out.println(box4.getItem());
+    // System.out.println(box1.getItem());
+    // System.out.println(box2.getItem());
+    // System.out.println(box3.getItem());
+    // System.out.println(box4.getItem());
+
+
+    Products<String, Double> product1 = new Products<>("Banana", 3.44);
+    Products<String, Integer> product2 = new Products<>("Tickets", 15);
+
+    System.out.print(product1.getItem() + ": ");
+    System.out.print(product1.getPrice() + "\n");
+    System.out.print(product2.getItem() + ": ");
+    System.out.print(product2.getPrice());
+
+    // product.setItem("banana", 3.44);
+    // product.setItem("apple", 34.4);
+
 
 }

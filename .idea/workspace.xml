@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/48-DateTimeFormatter/48-DateTimeFormatter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-OverloadedConstructorss/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/27-OverloadedConstructorss/27-OverloadedConstructorss.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/47-Hangman/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/47-Hangman/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/47-Hangman/src/Text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/47-Hangman/src/Text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructors/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/48-DateTimeFormatter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/48-DateTimeFormatter/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,11 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/27-OverloadedConstructors">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -47,13 +45,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="SimpleSourceFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="FETCH_TAGS_MODE" value="NO_TAGS" />
+    <option name="INCOMING_CHECK_STRATEGY" value="Never" />
     <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_BAD_FILE_NAMES" value="false" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="WARN_ABOUT_LARGE_FILES" value="false" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -96,85 +102,132 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BreakContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnhancedSwitch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Redo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tako.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TelephonePad2Darrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserInputArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.infiniteLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.music.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nested_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.searchArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/Documents/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/user/Documents/Java/27-OverloadedConstructors/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BreakContinue.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.EnhancedSwitch.executor": "Run",
+    "Application.LogicalOperators.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matrix.executor": "Run",
+    "Application.PrintF.executor": "Run",
+    "Application.Redo.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.SwitchStatement.executor": "Run",
+    "Application.Tako.executor": "Run",
+    "Application.TelephonePad2Darrays.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.UserInputArrays.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "Application.infiniteLoop.executor": "Run",
+    "Application.music.executor": "Run",
+    "Application.nested_if_else.executor": "Run",
+    "Application.searchArrays.executor": "Run",
+    "Application.stringMethods.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/user/.sdkman",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/user/Documents/Java/52-Generics/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/46-AudioPlayer/src" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="48-DateTimeFormatter" />
+      <module name="51-CountdownTimer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="51-CountdownTimer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="51-CountdownTimer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="51-CountdownTimer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="52-Generics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +322,11 @@
       <workItem from="1758898924066" duration="3631000" />
       <workItem from="1758936012257" duration="14000" />
       <workItem from="1758936037463" duration="315000" />
-      <workItem from="1758936429811" duration="11000" />
+      <workItem from="1758936429811" duration="642000" />
+      <workItem from="1758938044286" duration="2217000" />
+      <workItem from="1758940282045" duration="473000" />
+      <workItem from="1759022566212" duration="2755000" />
+      <workItem from="1759080149440" duration="8879000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

@@ -25,7 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" filepath="$PROJECT_DIR$/24SlotMachine/24SlotMachine.iml" />
       <module fileurl="file://$PROJECT_DIR$/25-OOP/25-OOP.iml" filepath="$PROJECT_DIR$/25-OOP/25-OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/26-Constructors/26-Constructors.iml" filepath="$PROJECT_DIR$/26-Constructors/26-Constructors.iml" />
-      <module fileurl="file://$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" filepath="$PROJECT_DIR$/27-OverloadedConstructors/27-OverloadedConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-OverloadedConstructorss/27-OverloadedConstructorss.iml" filepath="$PROJECT_DIR$/27-OverloadedConstructorss/27-OverloadedConstructorss.iml" />
       <module fileurl="file://$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" filepath="$PROJECT_DIR$/28-ArrayOfObjects/28-ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/29-Static/29-Static.iml" filepath="$PROJECT_DIR$/29-Static/29-Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/30-Inheritence/30-Inheritence.iml" filepath="$PROJECT_DIR$/30-Inheritence/30-Inheritence.iml" />
@@ -47,6 +47,10 @@
       <module fileurl="file://$PROJECT_DIR$/46-AudioPlayer/46-AudioPlayer.iml" filepath="$PROJECT_DIR$/46-AudioPlayer/46-AudioPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/47-Hangman/47-Hangman.iml" filepath="$PROJECT_DIR$/47-Hangman/47-Hangman.iml" />
       <module fileurl="file://$PROJECT_DIR$/48-DateTimeFormatter/48-DateTimeFormatter.iml" filepath="$PROJECT_DIR$/48-DateTimeFormatter/48-DateTimeFormatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49-AnonymousClass/49-AnonymousClass.iml" filepath="$PROJECT_DIR$/49-AnonymousClass/49-AnonymousClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50-TimerTask/50-TimerTask.iml" filepath="$PROJECT_DIR$/50-TimerTask/50-TimerTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51-CountdownTimer/51-CountdownTimer.iml" filepath="$PROJECT_DIR$/51-CountdownTimer/51-CountdownTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52-Generics/52-Generics.iml" filepath="$PROJECT_DIR$/52-Generics/52-Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

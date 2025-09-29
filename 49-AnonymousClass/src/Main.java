@@ -6,6 +6,7 @@ void main() {
 
     Dog dog1 = new Dog();
     Dog dog2 = new Dog() {
+        @Override
         void speak() {
             System.out.println("Scobby Doo goes *Ruh Roh*");
         }

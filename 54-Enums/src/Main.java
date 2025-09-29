@@ -23,7 +23,7 @@ void main() {
         }
     } catch (IllegalArgumentException e) {
         IO.println("Illegal Argument Exception");
-        IO.println("invalid day name");
+        IO.println("please provide a valid day");
     }
 
     scanner.close();

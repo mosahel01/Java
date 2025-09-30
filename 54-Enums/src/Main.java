@@ -26,5 +26,7 @@ void main() {
         IO.println("please provide a valid day");
     }
 
+    IO.println("hello world");
+
     scanner.close();
 }

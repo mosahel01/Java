@@ -53,6 +53,8 @@
       <module fileurl="file://$PROJECT_DIR$/52-Generics/52-Generics.iml" filepath="$PROJECT_DIR$/52-Generics/52-Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/53-HashMap/53-HashMap.iml" filepath="$PROJECT_DIR$/53-HashMap/53-HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/54-Enums/54-Enums.iml" filepath="$PROJECT_DIR$/54-Enums/54-Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55-Threading/55-Threading.iml" filepath="$PROJECT_DIR$/55-Threading/55-Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56-Mutlithreading/56-Mutlithreading.iml" filepath="$PROJECT_DIR$/56-Mutlithreading/56-Mutlithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

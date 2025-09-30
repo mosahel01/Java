@@ -46,8 +46,8 @@
       <list>
         <option value="Interface" />
         <option value="SimpleSourceFile" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -153,11 +153,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/user/Documents/Java/54-Enums/src/Main.java",
+    "onboarding.tips.debug.path": "/home/user/Documents/Java/56-Mutlithreading/src/Main.java",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   },
@@ -174,11 +174,19 @@
       <recent name="$PROJECT_DIR$/46-AudioPlayer/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="55-Threading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="54-Enums" />
+      <module name="56-Mutlithreading" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -284,7 +292,9 @@
       <workItem from="1758938044286" duration="2217000" />
       <workItem from="1758940282045" duration="473000" />
       <workItem from="1759022566212" duration="2755000" />
-      <workItem from="1759080149440" duration="16569000" />
+      <workItem from="1759080149440" duration="24470000" />
+      <workItem from="1759202554387" duration="264000" />
+      <workItem from="1759202961234" duration="6058000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />

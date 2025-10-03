@@ -55,6 +55,8 @@
       <module fileurl="file://$PROJECT_DIR$/54-Enums/54-Enums.iml" filepath="$PROJECT_DIR$/54-Enums/54-Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/55-Threading/55-Threading.iml" filepath="$PROJECT_DIR$/55-Threading/55-Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/56-Mutlithreading/56-Mutlithreading.iml" filepath="$PROJECT_DIR$/56-Mutlithreading/56-Mutlithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57-AlarmClock/57-AlarmClock.iml" filepath="$PROJECT_DIR$/57-AlarmClock/57-AlarmClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58-JavaProblems/58-JavaProblems.iml" filepath="$PROJECT_DIR$/58-JavaProblems/58-JavaProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

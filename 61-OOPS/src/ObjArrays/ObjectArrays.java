@@ -1,3 +1,5 @@
+package ObjArrays;
+
 public class ObjectArrays {
     public static void main(String[] args) {
         Monkey m1 = new Monkey();

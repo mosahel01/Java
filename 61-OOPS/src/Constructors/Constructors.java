@@ -1,17 +1,8 @@
-class Shirt {
-    private String color;
-    private char size;
-
-    void putOn() {
-        System.out.println("Shirt is on");
-    }
-
-    void takeOff() {
-        System.out.println("Shirt is off");
-    }
-
-}
+package Constructors;
 
 public class Constructors {
-    Shirt shirt = new Shirt();
+    public static void main(String[] args) {
+        Shirt shirt = new Shirt();
+        System.out.println(shirt);
+    }
 }

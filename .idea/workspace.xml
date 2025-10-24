@@ -5,21 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b363b457-7d56-438c-97b6-1b2ebf6dbb6f" name="Changes" comment="Compound interest">
-      <change afterPath="$PROJECT_DIR$/58-JavaProblems/src/CollectionsFramework/Iteratorss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/58-JavaProblems/src/CollectionsFramework/Recursions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/58-JavaProblems/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/58-JavaProblems/src/Recursionss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/61-OOPS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Constructors/Constructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Constructors/Shirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Headphones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/InterfaceExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/ObjArrays/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/ObjArrays/ObjectArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Shirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61-OOPS/src/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-BASICS/01-BASICS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Variables/02-Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Iterators/03-Iterators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-ShoppingCart/04-ShoppingCart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-FirstProject/05-FirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-RandomNumbers/06-RandomNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-MathematicalJava/07-MathematicalJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Area/08-Area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-InterestCalculator/09-InterestCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-WeightConverter/10-WeightConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-TemperatureConverter/11-TemperatureConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-JavaCalculatorr/12-JavaCalculatorr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-NumberGuessingGame/13-NumberGuessingGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-LOOPS/14-LOOPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-Methods/15-Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-OverLoadedMethods/16-OverLoadedMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-BankingGame/17-BankingGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-DiceRollerGame/18-DiceRollerGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-Arrays/19-Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-VarArgs/20-VarArgs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-QuizGame/22-QuizGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-Abstraction/34-Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/MainMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/MainShoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/MethodChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61-OOPS/src/innerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62-CurrencyFormatter/62-CurrencyFormatter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63-ArrowKeysGUI/63-ArrowKeysGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64-firstGUIapplication/64-firstGUIapplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/65-loginGUI/65-loginGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66-TicTacToe/66-TicTacToe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27-OverloadedConstructorss/27-OverloadedConstructorss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/27-OverloadedConstructorss/27-OverloadedConstructorss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35-Interfaces/35-Interfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/35-Interfaces/35-Interfaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36-PolyMorphism/36-PolyMorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/36-PolyMorphism/36-PolyMorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37-RuntimePolymorphism/37-RuntimePolymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/37-RuntimePolymorphism/37-RuntimePolymorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/38-GettersSetters/38-GettersSetters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/38-GettersSetters/38-GettersSetters.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/39-Aggregation/39-Aggregation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-Composition/40-Composition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/40-Composition/40-Composition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/41-WrapperClasses/41-WrapperClasses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42-ArrayLists/42-ArrayLists.iml" beforeDir="false" afterPath="$PROJECT_DIR$/42-ArrayLists/42-ArrayLists.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43-ExceptionHandling/43-ExceptionHandling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/43-ExceptionHandling/43-ExceptionHandling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46-AudioPlayer/46-AudioPlayer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/46-AudioPlayer/46-AudioPlayer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55-Threading/55-Threading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/55-Threading/55-Threading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/56-Mutlithreading/56-Mutlithreading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/56-Mutlithreading/56-Mutlithreading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57-AlarmClock/57-AlarmClock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/57-AlarmClock/57-AlarmClock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/58-JavaProblems/58-JavaProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/58-JavaProblems/58-JavaProblems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59-DiceGame/59-DiceGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/59-DiceGame/59-DiceGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-FortuneCookie/60-FortuneCookie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/60-FortuneCookie/60-FortuneCookie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/61-OOPS/61-OOPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/61-OOPS/61-OOPS.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +135,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/61-OOPS/src/Headphones.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="jar:///usr/lib/jvm/default-runtime/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar:///usr/lib/jvm/default-runtime/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
     <setting file="jar:///usr/lib/jvm/default-runtime/lib/src.zip!/java.base/java/lang/StringLatin1.java" root0="SKIP_INSPECTION" />
@@ -132,12 +173,26 @@
     "Application.DateTime.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.DupChars.executor": "Run",
+    "Application.Encapsulation (1).executor": "Run",
+    "Application.Encapsulation (2).executor": "Run",
+    "Application.Encapsulation (3).executor": "Run",
+    "Application.Encapsulation.executor": "Run",
     "Application.Encryption.executor": "Run",
     "Application.EnhancedSwitch.executor": "Run",
+    "Application.Enums.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FileReading.executor": "Run",
+    "Application.GUI (1).executor": "Run",
+    "Application.GUI (2).executor": "Run",
+    "Application.GUI (3).executor": "Run",
+    "Application.GUI (4).executor": "Run",
+    "Application.GUI (5).executor": "Run",
+    "Application.GUI.executor": "Run",
+    "Application.Generics.executor": "Run",
     "Application.HashSets.executor": "Run",
     "Application.Headphones (1).executor": "Run",
+    "Application.Headphones (2).executor": "Run",
+    "Application.Headphones (3).executor": "Run",
     "Application.Headphones.executor": "Run",
     "Application.InterfaceExamples.executor": "Run",
     "Application.Iteratorss.executor": "Run",
@@ -150,13 +205,20 @@
     "Application.Main (4).executor": "Run",
     "Application.Main (5).executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainMouse.executor": "Run",
+    "Application.MainShoe (1).executor": "Run",
+    "Application.MainShoe.executor": "Run",
     "Application.Matrix.executor": "Run",
+    "Application.MethodChaining.executor": "Run",
+    "Application.Mouse.executor": "Run",
     "Application.ObjectArrays (1).executor": "Run",
     "Application.ObjectArrays (2).executor": "Run",
     "Application.ObjectArrays.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Pangram.executor": "Run",
     "Application.PangramPart2.executor": "Run",
+    "Application.Polymorphism (1).executor": "Run",
+    "Application.Polymorphism.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.PrintF.executor": "Run",
     "Application.QuizProgram.executor": "Run",
@@ -166,6 +228,7 @@
     "Application.Redo.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.Shirt.executor": "Run",
+    "Application.SmallestMissingSum.executor": "Run",
     "Application.Stacks.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.SubString.executor": "Run",
@@ -181,6 +244,7 @@
     "Application.UserInputArrays.executor": "Run",
     "Application.WhileLoop.executor": "Run",
     "Application.infiniteLoop.executor": "Run",
+    "Application.innerClass.executor": "Run",
     "Application.main (1).executor": "Run",
     "Application.main.executor": "Run",
     "Application.music.executor": "Run",
@@ -197,6 +261,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "deletionFromPopupRequiresConfirmation": "false",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
@@ -208,11 +273,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/user/Documents/Java/61-OOPS/src/Main.java",
+    "onboarding.tips.debug.path": "/home/user/Documents/Java/66-TicTacToe/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JAVA",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   },
@@ -229,62 +294,49 @@
       <recent name="$PROJECT_DIR$/46-AudioPlayer/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterfaceExamples">
-    <configuration name="Headphones (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Headphones" />
-      <module name="61-OOPS" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="GUI (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="64-firstGUIapplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Headphones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Headphones" />
-      <module name="61-OOPS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="GUI (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="64-firstGUIapplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceExamples" />
-      <module name="61-OOPS" />
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="64-firstGUIapplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectArrays (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectArrays" />
-      <module name="61-OOPS" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="66-TicTacToe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shirt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shirt" />
-      <module name="61-OOPS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticMethod" />
-      <module name="61-OOPS" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="65-loginGUI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InterfaceExamples" />
-        <item itemvalue="Application.Headphones (1)" />
-        <item itemvalue="Application.Headphones" />
-        <item itemvalue="Application.Shirt" />
-        <item itemvalue="Application.StaticMethod" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.GUI (5)" />
+        <item itemvalue="Application.GUI (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +344,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
       </set>
     </attachedChunks>
   </component>
@@ -409,6 +462,14 @@
       <workItem from="1760277264162" duration="4505000" />
       <workItem from="1760319753687" duration="11665000" />
       <workItem from="1760338148363" duration="24800000" />
+      <workItem from="1760767903609" duration="1036000" />
+      <workItem from="1760771500002" duration="107000" />
+      <workItem from="1760771620839" duration="1726000" />
+      <workItem from="1760774175597" duration="4133000" />
+      <workItem from="1760846513706" duration="25414000" />
+      <workItem from="1761109174698" duration="2027000" />
+      <workItem from="1761184459754" duration="1156000" />
+      <workItem from="1761185752063" duration="25055000" />
     </task>
     <task id="LOCAL-00001" summary="Iterators in Java">
       <option name="closed" value="true" />
